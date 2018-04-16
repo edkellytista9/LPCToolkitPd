@@ -1,2 +1,2 @@
 #N canvas 3 89 450 300 10;
-#X obj 74 112 mbc_lpc~;
+#X obj 74 112 mbc_lpc~ 20 1;
